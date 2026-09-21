@@ -16,7 +16,7 @@ Praticar análise de dados utilizando Python, SQL, PostgreSQL e Power BI, passan
 
 ## Etapas do projeto
 
-1. Coleta dos dados da PRF
+1. Coleta dos dados da PRF ✅
 2. Limpeza e tratamento com Python e Pandas
 3. Armazenamento dos dados no PostgreSQL
 4. Consultas e análises utilizando SQL
